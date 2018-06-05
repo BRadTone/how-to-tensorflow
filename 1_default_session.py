@@ -2,7 +2,7 @@ import tensorflow as tf
 
 # find polynomial minimum
 x = tf.Variable(5, dtype=tf.float32)
-y = x**2 - 25
+y = x ** 2 - 25
 
 # explore other optimizers in tf.train
 optimizer = tf.train.GradientDescentOptimizer(.1)
