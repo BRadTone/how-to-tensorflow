@@ -11,14 +11,14 @@
 
 ****
 
-### Notebooks:
+## Notebooks:
 
-##### 1. Linear regression
+#### 1. Linear regression
 Applied mean squered error cost function to learn coefficients of quadratic function
 ![learning parameters of quadratic function](images/linear_regression.gif)
 
 
-##### 2. Polynomial estimator using neural network (dense, fully conected)
+#### 2. Polynomial estimator using neural network (dense, fully conected)
 Neural net fits nth degree polynomial equation.
 ![learning parameters of quadratic function](images/polynomial_estimator_nn_training_animation.gif)
 
